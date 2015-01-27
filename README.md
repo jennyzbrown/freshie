@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO:
+
+First iteration of creating a Ruby Gem. This Gem randomly selects from your array of data utilizing the sample method.
+
+The next iteration will select data without repetition. It will copy the chosen data from the array to a csv and will not select data that is already present on the csv.
 
 ## Contributing
 

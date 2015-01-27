@@ -5,5 +5,3 @@ module Freshie
     array.sample
   end
 end
-
-
