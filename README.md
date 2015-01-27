@@ -27,7 +27,7 @@ The next iteration will select data without repetition. It will copy the chosen 
 
 ##Implementation:
 
-data_randomly_selected_by_freshie = Freshie.fresh(array_or_data)
+`object_randomly_selected_by_freshie = Freshie.fresh(array_of_data)`
 
 ## Contributing
 
