@@ -1,6 +1,16 @@
 # Freshie
 
-TODO: Write a gem description
+## Usage
+
+First iteration of creating a Ruby Gem. This Gem randomly selects from your array of data utilizing the sample method.
+
+The next iteration will select data without repetition. It will copy the chosen data from the array to a csv and will not select data that is already present on the csv.
+
+
+##Implementation:
+
+`object_randomly_selected_by_freshie = Freshie.fresh(array_of_data)`
+
 
 ## Installation
 
@@ -18,16 +28,6 @@ Or install it yourself as:
 
     $ gem install freshie
 
-## Usage
-
-First iteration of creating a Ruby Gem. This Gem randomly selects from your array of data utilizing the sample method.
-
-The next iteration will select data without repetition. It will copy the chosen data from the array to a csv and will not select data that is already present on the csv.
-
-
-##Implementation:
-
-`object_randomly_selected_by_freshie = Freshie.fresh(array_of_data)`
 
 ## Contributing
 
